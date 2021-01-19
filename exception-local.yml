@@ -1,0 +1,4 @@
+invalidToken:
+  httpStatus: 401
+  message: 토큰
+  code: 100003
