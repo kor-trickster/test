@@ -1,4 +1,0 @@
-invalidToken:
-  httpStatus: 401
-  message: invalid token
-  code: 100003
